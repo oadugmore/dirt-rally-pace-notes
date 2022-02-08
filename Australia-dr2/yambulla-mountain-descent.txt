@@ -1,0 +1,30 @@
+80 cr
+50 flat l/bg-jmp
+50 6r
+120 6r/jmp continues long !2l 4r 3l-long opens/cr
+50 6l 80 flat keepM/big-jmp
+50 5r long>3/cr 3l-long narrow
+50 middle/big-jmp 6l 5r long cut 5l-long >3/cr 4r long/cr 5l
+50 5r dontcut 3l middle/cr !30 2r tightens/cr narrow 3l 3r 4l/cr long
+30 5l 4r straight/junc 4l opens/cr 4r 4l long/cr>2 4r long tightens 5l 5r 3l tightens/cr
+30 6r opens/jmp? !slow
+30 6r/cr long 1l
+30 cr 2r tightens 2l 2r/cr long
+50 unseen 2r tightens
+30 5r
+30 4l long/cr >3 narrow 6r
+50 cr 5r long 3l tightens/cr 2r tight 2l/cr tightens
+50 6l
+30 6r 5l
+80 5r long opens/cr
+30 !narrow 4r tigtht 4l
+50 cr short 3l opens
+30 5r 5l 5r tight
+30 3r 4l/jmp >2 opens/cr long
+30 4l/cr opens
+30 4r long tight/cr!
+30 4r long narrow
+30 flat keepM/cr
+50 4r/cr tight 3l tight/cr narrow 4r 3l 3r 4l long >2 opens/cr
+30 6l/cr finish
+6r long stop.
