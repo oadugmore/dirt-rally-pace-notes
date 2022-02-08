@@ -1,0 +1,28 @@
+30 6l/cr deceptive 6r turn sql
+30 5l long opens/cr 6r/cr long >4 opens/cr 3l long>2
+30 4r long/cr
+50 flat middle/cr
+120 cr
+50 keepL/cr 4l long
+30 flat cr
+60 5l
+30 3r long opens/cr
+30 5l/cr verylong>2 long 4r long >3 opens verylong junc 6r opens/cr
+50 !3r/cr tightens 2l opens
+30 5r long/cr 3l long tight
+100 flat middle/cr
+80 5r long opens/cr
+30 5l long tightens 3r tightens 3l 4r opens
+30 2r tightens cut? !4l/cr 4r 5l opens/cr
+80 midd/cr
+100 flat r/big jmp
+50 4l long tight
+30 4l/cr 4r long/cr 4l opens/cr 5r/jmp 4l tarmac
+50 6l opens/cr 5r opens/cr 5l
+100 6r/jmp long
+80 !narrow bridge 2l dontcut 3r opens/cr turn 4l/cr
+50 gravel 4l long >3 4r dontcut opens flat middle/cr 4r long tight flat middle/cr
+100 dip 6r !4l opens narrow bridge
+60 6r 5l long opens
+30 4l long/cr tight camber !> dontcut 3/bridge 2r long tightens finish
+80 stop.

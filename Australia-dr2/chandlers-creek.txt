@@ -1,0 +1,50 @@
+50 6l
+30 turn sqr 3l long opens/cr 5r long >2 opens/cr 4l 5r 4l dontcut 3r tight 5l long>4 4r/cr long tight tarmac 5l long
+80 gravel flat middle/jmp
+80 grid 3r long 3l long tight
+30 cr jmp/narrow gate 4r long opens
+80 flat middle/verylong cr
+50 6r
+80 6r/long crest tight 5l long tightens/cr 5r/cr 6l long !5r/cr dontcut 2l tight narrow 6r 2l tightens 3r tight long
+30 5l
+30 flat midd/jmp
+30 4r long opens 6l opens/cr
+!30 1l tight dontcut 6r/cr 3l 5r long/cr >3 5l 
+30 cr 4l long 4r long opens straight junc 4l tight/cr 5r 6l 
+30 keepL/jmp 6r
+30 keepM/cr 3r tight/cr 5l 5r mid/cr
+40 3l/cr extralong
+50 5r/cr keepM/jmp 
+30 slow 6r/cr 1l 2r long tight sqr/cr 1l long tight flat r/cr
+30 4r long tight keepL/cr
+!30 5r long>3/cr
+60 /narrow bridge 4r 5l/cr tightens opens 6r/cr 5l
+30 5r >3 long 4l/cr
+30 4r long/cr 5r/dip jmp
+30 /bmp long cr
+30 5l 5r long tight 5l/cr 5r flatL 
+60 flat/jmp?
+100 turn sqr tarmac
+30 5l/cr 4r opens/cr 3l>2 2r long 3l long/cr 4r long 6l opens/jmp? 6r
+30 5 extralong/cr flat grid bigjmp
+200 tarmac 4r long tight gravel 3l long tight
+30 6r/jmp
+50 6r long>5 4l/cr tight 5r
+80 mid/cr tarmac slow
+30 turn sql
+80 mid/cr 
+30 cr 6r 
+80/grid gravel 
+30 4r long tight 6l/cr 4r long tight/cr 
+30 tarmac 2l tight/bridge
+80 gravel 3r long opens mid/cr
+30 mid/cr slow
+30 turn sqr
+30/bmp 4l/cr 5r 5l/cr 5r/grid 5l/cr 6r/bmp
+30 flat/cr 6r-long
+50 gate 5r/cr-long
+30 cr 
+30 keepM/cr 
+50 6l-verylong/cr
+50 cr 5r-long-opens/cr 
+150 grid finish stop.
