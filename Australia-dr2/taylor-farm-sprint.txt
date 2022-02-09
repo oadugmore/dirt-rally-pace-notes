@@ -1,30 +1,29 @@
 100 grid 6l-verylong/cr
-30 6r-verylong/cr tightens
-60 flat r/jmp
-40 flat jmp 6l long > dontcut/gate
+30 6r-verylong/cr opens
+60 6r/jmp
+40 flat-jmp 6l-long-tightens-dontcut/gate
 50 6r/cr 5r/cr grid 5l
-30 4r/cr 5l 5r long opens/cr sql unseen
-30 6l/cr flat keepm/cr 30 4l>3
-50 tarmac/bridge 3r>
-30 cr 4l long>2
-30 6r 3l long
+30 4r/cr 5l 5r-long-opens/cr turn-sql-unseen
+30 6l/cr flat-keepM/cr
+30 4l>3
+50 tarmac/bridge 3r-tightens
+30 cr 4l-long>2
+30 6r 3l-long
 50 grid tarmac
-80 flat keepm/long cr
-100 cut sqr
-50 keepm/jmp? gravel
-50 4l long 4r>/cr 5l long<
+80 flat-keepM/long-cr
+100 turn-cut-sqr
+50 keepM/jmp? gravel
+50 4l-long 4r-tightens/cr 5l-long-opens
 50 bmp?
-30 6l/jmp 4r long opens tarmac 5l verylong tightens
-120 gravel
-flat keepm/cr grid
-30 4r verylong/cr 6l 6r
-30 5l verylong>4 cr
-!4r long tightens 2l dontcut 3r long>2 cr 3l 4r
-30 sql dontcut/gate
-50 flat keepm/cr jmp
-50 5l 5r 5l long 5r long continues opens/cr cr
-30 5r/dip jmp 5l long/cr>4 6r/cr long > 4 narrow !5l long>2/cr
-30 5r 5l/jmp? 4r long>3 opens/cr 4l dontcut/bridge
-80 cr 3l opens/cr
-30 6r 4l tightens
-60 finish stop
+30 6l/jmps 4r-long-opens tarmac 5l-verylong-tightens
+120 gravel flat-keepM/cr-grid
+30 4r-verylong/cr 6l 6r
+30 5l-verylong>4 cr !4r-long-tightens 2l-dontcut 3r-long>2 cr 3l 4r
+30 turn-sql-dontcut/narrow-gate
+50 flat-keepM/cr jmp
+50 5l 5r 5l-long 5r-long-continues-opens/cr-cr
+30 5r/dip-jmp 5l-long/cr>4 6r/cr-long>4-narrow !5l-long>2/cr
+30 5r 5l/jmp? 4r-long>3-opens/cr 4l-dontcut/narrow-bridge
+80 cr 3l-opens/cr
+30 6r 4l-tightens
+60 finish cr stop.
