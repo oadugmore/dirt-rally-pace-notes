@@ -1,8 +1,9 @@
 100 grid 6l-verylong/cr
 30 6r-verylong/cr opens
-60 6r/jmp
+60 flat-6r/jmp
 40 flat-jmp 6l-long-tightens-dontcut/gate
-50 6r/cr 5r/cr grid 5l
+50 6r/cr
+30 6l 5r/cr grid 5l
 30 4r/cr 5l 5r-long-opens/cr turn-sql-unseen
 30 6l/cr flat-keepM/cr
 30 4l>3
